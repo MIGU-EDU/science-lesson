@@ -15,8 +15,7 @@
       </div>
 
       <div class="prose p-12 bg-white rounded-md w-[65ch]">
-        <h2>课时</h2>
-        <p>这里是课时</p>
+        <NuxtPage />
       </div>
     </div>
   </div>
