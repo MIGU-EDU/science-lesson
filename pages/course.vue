@@ -1,14 +1,14 @@
 <template>
   <div class="prose mb-12">
     <h1>
-      <span class="font-medium">课程:
+      <span class="font-medium">
         <span class="font-bold">科学课</span>
       </span>
     </h1>
   </div>
 
   <div class="flex flex-row justify-center flex-grow">
-    <div class="prose mr-4 p-8 bg-white rounded-md min-w-[20ch] max-w-[30ch] flex flex-col">
+    <div class="prose mr-4 p-8 bg-white rounded-md min-w-[20ch] max-w-[30ch] h-[80vh] overflow-auto flex flex-col">
       <h3>章节</h3>
       
       <div

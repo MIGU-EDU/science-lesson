@@ -25,6 +25,7 @@
     <VideoPlayer
       v-if="lesson.videoId"
       :videoId="lesson.videoId"
+      :psign="lesson.psign"
     />
     <p>{{ lesson.text }}</p>
   </div>

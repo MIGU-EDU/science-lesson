@@ -5,7 +5,7 @@ type Lesson = {
   slug: string;
   number: number;
   downloadUrl: string;
-  videoId: number;
+  videoId: string;
   text: string;
   sourceUrl?: string;
 }
